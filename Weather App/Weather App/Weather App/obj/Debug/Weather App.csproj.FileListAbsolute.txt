@@ -1,0 +1,9 @@
+Z:\Weather App\Weather App\bin\Debug\Weather App.exe.config
+Z:\Weather App\Weather App\bin\Debug\Weather App.exe
+Z:\Weather App\Weather App\bin\Debug\Weather App.pdb
+Z:\Weather App\Weather App\obj\Debug\Weather App.csprojAssemblyReference.cache
+Z:\Weather App\Weather App\obj\Debug\Weather_App.Form1.resources
+Z:\Weather App\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+Z:\Weather App\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+Z:\Weather App\Weather App\obj\Debug\Weather App.exe
+Z:\Weather App\Weather App\obj\Debug\Weather App.pdb
